@@ -1,51 +1,7 @@
-BASE OK bubbls/UGS-Assets@1cbec0854b89d36e3d5f78eb450232e6a03eaec2/eagle ride -> eagleride
-BASE REWRITE eagleride
-FILE earthbound: https://cdn.jsdelivr.net/gh/a456pur/seraph@ae2fcc6d6a9cd051654fcc0519080db1f79cf2a7/games/earthbound/EarthBound%20(USA).sfc -> assets/cdn/d005ce67-EarthBound_USA_.sfc
-FILE earthbound: https://cdn.jsdelivr.net/gh/a456pur/seraph@81f551ca0aa8e3d6018d32d8ac5904ac9bc78f76/storage/emulatorjs/data/loader.js -> ../_shared/6515c3799bdb-loader.js
-FILE earthbound3: https://cdn.jsdelivr.net/gh/a456pur/seraph@ae2fcc6d6a9cd051654fcc0519080db1f79cf2a7/games/mother3/mother-3.zip -> assets/cdn/9e565e11-mother-3.zip
-FILE earthbound3: https://cdn.jsdelivr.net/gh/a456pur/seraph@81f551ca0aa8e3d6018d32d8ac5904ac9bc78f76/storage/emulatorjs/data/loader.js -> ../_shared/6515c3799bdb-loader.js
-FILE earthtaken: https://cdn.jsdelivr.net/gh/u-cvlassrom-y/google@main/ruffle.js -> ../_shared/6fd5328a897b-ruffle.js
-FILE earthtaken: https://cdn.jsdelivr.net/gh/bubbls/UGS-file-encryption@a626954cb7a4d11bbe028717e5c067ad0f739662/earth-taken-15598.swf -> assets/cdn/2255025a-earth-taken-15598.swf
-FILE edelweiss: https://cdn.jsdelivr.net/gh/Stinkalistic/junk@main/Edelweiss/TemplateData/favicon.ico -> assets/cdn/e8032ce6-favicon.ico
-FILE edelweiss: https://cdn.jsdelivr.net/gh/Stinkalistic/junk@main/Edelweiss/TemplateData/style.css -> assets/cdn/c3e32450-style.css
-FILE edelweiss: https://cdn.jsdelivr.net/gh/Stinkalistic/junk@main/Edelweiss/Build/Edelweiss%202.0%20web.loader.js -> assets/cdn/e6728b81-Edelweiss_2.0_web.loader.js
-FILE edelweiss: https://cdn.jsdelivr.net/gh/Stinkalistic/junk@main/Edelweiss/Build/Edelweiss%202.0%20web.framework.js -> assets/cdn/688b8e88-Edelweiss_2.0_web.framework.js
-BASE OK bubbls/UGS-Assets@f8f793bdb6914cf106283a8a29b7fc1fb671a2ff/edys car simulator -> edyscarsimulator
-BASE REWRITE edyscarsimulator
-FILE effinghail: https://cdn.jsdelivr.net/npm/@ruffle-rs/ruffle@0.2.0-nightly.2025.10.2/ruffle.min.js -> assets/cdn/d3db844a-ruffle.min.js
-FILE effinghail: https://cdn.jsdelivr.net/gh/jackilyna/web-flash@821a7b5ea241bc2f2d5cd6c95eeae57f938ef119/webfl/effingh.swf -> assets/cdn/6e1307f5-effingh.swf
-FILE effingmachines: https://cdn.jsdelivr.net/gh/u-cvlassrom-y/google@main/ruffle.js -> ../_shared/6fd5328a897b-ruffle.js
-FILE effingmachines: https://cdn.jsdelivr.net/gh/creativename420/swf_storage_2@e585c8cbeb3cefd39593392615beb03f938ad085/EffingMachines.swf -> assets/cdn/998165f8-EffingMachines.swf
-FILE effingworms: https://cdn.jsdelivr.net/gh/u-cvlassrom-y/google@main/ruffle.js -> ../_shared/6fd5328a897b-ruffle.js
-FILE effingworms: https://cdn.jsdelivr.net/gh/bubbls/UGS-file-encryption@2a2ea5ff73d621c1b9a034f9495eca5caa3f1089/EffingWorms.swf -> assets/cdn/13008edc-EffingWorms.swf
-FILE effingzombies: https://cdn.jsdelivr.net/gh/u-cvlassrom-y/google@main/ruffle.js -> ../_shared/6fd5328a897b-ruffle.js
-FILE effingzombies: https://cdn.jsdelivr.net/gh/jackilyna/web-flash@1058d354ed5420976442f801cc9b93301ce875de/webfl/effzom-full.swf -> assets/cdn/d350bc1b-effzom-full.swf
+EMU MISS a456pur/seraph@81f551ca0aa8e3d6018d32d8ac5904ac9bc78f76
+EMU MISS a456pur/seraph@81f551ca0aa8e3d6018d32d8ac5904ac9bc78f76
 BASE SKIP 216.9MB Stinkalistic/UGS@main/MISC/egg
-BASE OK bubbls/UGS-Assets@main/eggy car -> eggycar
-BASE REWRITE eggycar
-BASE OK bubbls/UGS-Assets@9defddfd6a5653144cd8c423f6fb83d532dc9967/elasticman -> elasticface
-BASE REWRITE elasticface
-FILE electricman2: https://cdn.jsdelivr.net/gh/u-cvlassrom-y/google@main/ruffle.js -> ../_shared/6fd5328a897b-ruffle.js
-FILE electricman2: https://cdn.jsdelivr.net/gh/asianmemeboi/AAA-Fun-World@b229f6498459ce617348ff328b1670124751ab87/Games/ElectricMan.swf -> assets/cdn/b4d93f47-ElectricMan.swf
-FILE elytraflight: https://cdn.jsdelivr.net/gh/familiapablo/lopx@main/TemplateData/style.css -> assets/cdn/ebf930ee-style.css
-BASE OK Stinkalistic/UGS@main/UNITY/enchain -> enchain
-BASE REWRITE enchain
-FILE endlesswar4: https://cdn.jsdelivr.net/gh/u-cvlassrom-y/google@main/ruffle.js -> ../_shared/6fd5328a897b-ruffle.js
-FILE endlesswar4: https://cdn.jsdelivr.net/gh/oldflashgames/games3@34e3a9ef5eecd41f199927bd33cb9c87a8ab3b51/endless-war-4.swf -> assets/cdn/7f63756e-endless-war-4.swf
-FILE enduro: https://cdn.jsdelivr.net/gh/bubbls/UGS-file-encryption@a0910a6715051f73c342764b9b535511505b6618/Enduro%20(USA).zip -> assets/cdn/fd6aa2d3-Enduro_USA_.zip
-FILE enduro: https://cdn.jsdelivr.net/gh/a456pur/seraph@81f551ca0aa8e3d6018d32d8ac5904ac9bc78f76/storage/emulatorjs/data/loader.js -> ../_shared/6515c3799bdb-loader.js
-FILE epicbattlefantasy5: https://cdn.jsdelivr.net/gh/u-cvlassrom-y/google@main/ruffle.js -> ../_shared/6fd5328a897b-ruffle.js
-BASE OK Stinkalistic/junk@main/escalatingduel -> escalatingduel
-BASE REWRITE escalatingduel
-BASE OK abisdbest/classroom.google.com@45b2d69c626dc365753f6922d2c48c4075683ef5/drive.google.com/escape road -> escaperoad
-BASE REWRITE escaperoad
-FILE etrianoddyssey: https://cdn.jsdelivr.net/gh/bubbls/UGS-file-encryption@25826081a528d3c497685835b954e69ab7da099f/Etrian%20Odyssey%20(USA).zip -> assets/cdn/03b22962-Etrian_Odyssey_USA_.zip
-FILE etrianoddyssey: https://cdn.jsdelivr.net/gh/a456pur/seraph@81f551ca0aa8e3d6018d32d8ac5904ac9bc78f76/storage/emulatorjs/data/loader.js -> ../_shared/6515c3799bdb-loader.js
-BASE OK Stinkalistic/UGS@main/UNITY/Evolution -> evolution
-BASE REWRITE evolution
-FILE excitebike64: https://cdn.jsdelivr.net/gh/a456pur/seraph@ae2fcc6d6a9cd051654fcc0519080db1f79cf2a7/games/excitebike64/Excitebike%2064%20(USA).zip -> assets/cdn/bb11eb2a-Excitebike_64_USA_.zip
-FILE excitebike64: https://cdn.jsdelivr.net/gh/a456pur/seraph@81f551ca0aa8e3d6018d32d8ac5904ac9bc78f76/storage/emulatorjs/data/loader.js -> ../_shared/6515c3799bdb-loader.js
-FILE learntodie: https://cdn.jsdelivr.net/gh/u-cvlassrom-y/google@main/ruffle.js -> ../_shared/6fd5328a897b-ruffle.js
-FILE learntodie: https://cdn.jsdelivr.net/gh/bubbls/UGS-file-encryption@9e29c3a4a4b81220a0cbe5fea1e60608be6f14b4/dVIE6H3vf1r85m.swf -> assets/cdn/de28a008-dVIE6H3vf1r85m.swf
-FILE learntodie2: https://cdn.jsdelivr.net/gh/u-cvlassrom-y/google@main/ruffle.js -> ../_shared/6fd5328a897b-ruffle.js
-FILE learntodie2: https://cdn.jsdelivr.net/gh/bubbls/UGS-file-encryption@9e6a9d4302019d92606dfce674818fb83abdd28e/earn-to-die-2-exodus.swf -> assets/cdn/e7f7ee0e-earn-to-die-2-exodus.swf
+EMU MISS a456pur/seraph@81f551ca0aa8e3d6018d32d8ac5904ac9bc78f76
+FILE epicbattlefantasy5: https://raw.githubusercontent.com/Stinkalistic/Flash-games/refs/heads/main/746618_epic-battle-fantasy-5.swf -> assets/cdn/c421c826-746618_epic-battle-fantasy-5.swf
+EMU MISS a456pur/seraph@81f551ca0aa8e3d6018d32d8ac5904ac9bc78f76
+EMU MISS a456pur/seraph@81f551ca0aa8e3d6018d32d8ac5904ac9bc78f76
