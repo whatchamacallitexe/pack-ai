@@ -1,2 +1,2 @@
 BASE SKIP 216.9MB Stinkalistic/UGS@main/MISC/egg
-RUFFLE FAIL module 'urllib' has no attribute 'request'
+RUFFLE OK 1 wrappers
